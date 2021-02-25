@@ -7,4 +7,4 @@
 3. run commamd ->$ php -S localhost:8000
 4. 進入頁面，測試帳號密碼，得出結果
 
-![image](Screenshot (23)_LI.jpg)
+![image](https://github.com/LJlkdskdjflsa/Alnimal-Interview/blob/main/Screenshot%20(23)_LI.jpg)
