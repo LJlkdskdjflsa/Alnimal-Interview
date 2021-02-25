@@ -1,0 +1,15 @@
+{
+    "name": "lj/mvc",
+    "authors": [
+        {
+            "name": "LJlkdskdjflsa",
+            "email": "liliangjya@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
